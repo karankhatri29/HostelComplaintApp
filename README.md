@@ -50,12 +50,12 @@ Press a to run on Android Emulator.
 Press w to open in the web browser.
 Scan the QR code with the Expo Go app to run on your mobile device.
 
-## **Required Expo GO app from Playstore for Android Device
-## **Required Iphone Camera for iOS Device 
+### **Required Expo GO app from Playstore for Android Device
+### **Required Iphone Camera for iOS Device 
 
 --
 
-### **Required Packages
+## **Required Packages
 These are installed by default in this project:
     npm install @react-navigation/native @react-navigation/native-stack
     npm install @react-navigation/bottom-tabs
@@ -67,7 +67,7 @@ These are installed by default in this project:
 
 --
 
-### **Commands
+## **Commands
 
   Start app: npm start
   Clean cache: npx expo start -c
